@@ -1,0 +1,4 @@
+program example;
+declare var CA = 10.45;
+BB = 1;
+我 = 1;
