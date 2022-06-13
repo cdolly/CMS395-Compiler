@@ -2,9 +2,7 @@
 
 CMS 395 group project: Benjamin Mann, Cameron Dolly, Daniel Liew
 
-# CMS395-Lexical Analyzer
-
-# CMS395-Syntax Analyzer
+# CMS395-Syntax Analyzer and Lexical Analyzer
 
 A pl0 parser - `src/pl0_parser` directory
 
