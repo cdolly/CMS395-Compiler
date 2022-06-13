@@ -1,0 +1,10 @@
+a
+
+    Æ‡yaU  ã                   @   s4   d Z dZdZdZdZdZdZdZdZd	Z	d
+Z
+dZdS )
+zsrc/tests/Test/identifiers.txtz	[a-zA-Z$]z[0-9]z\sÚ.ÚeZ34Z35é   é
+   z
+[WARNING]:z{INVALID_TOKEN}N)ÚFILENAMEÚ
+REGEX_CHARÚ	REGEX_NUMÚREGEX_WHITESPACEÚDECIMALÚEXPONENTÚEOLÚEOFÚIDENTIFIER_MAXÚNUMERAL_MAXÚWARNINGÚ
+INVALID_TOKEN© r   r   úM/Users/danielliew/Desktop/code/cmsCompilers/lexical-analyzer/src/constants.pyÚ<module>   s   
